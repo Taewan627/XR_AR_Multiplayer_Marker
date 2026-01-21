@@ -74,7 +74,7 @@ This project was created as part of an XR course assignment to explore
 the integration of AR interaction and multiplayer state synchronization.
 
 ## [KR] 프로젝트 목적
-본 프로젝트는 XR 수업 과제로 제작되었으며,  
+본 프로젝트는 개인연구로 제작되었으며,  
 AR 상호작용과 멀티플레이 상태 동기화 구조를 실험하는 것을 목표로 한다.
 
 ---
